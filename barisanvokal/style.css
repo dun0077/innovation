@@ -1,11 +1,8 @@
 .grid {
-    /*height: 280px;
-    min-width: 280px;*/
 	height: 380px;
 	width: 100%;
     display: flex;
     flex-wrap: wrap;
-    /*margin-left: 80px;*/
     margin-top: 10px;
     background-color: rgba(109, 127, 151, 0.5);
     padding:5px;
@@ -40,7 +37,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
-  min-width:360px;
+  min-width:280px;
   max-width: 90vh;
   text-align: center;
 }
